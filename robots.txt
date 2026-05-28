@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://your-site-url.github.io/sitemap.xml
+Sitemap: https://poultrynutritionphysiology.github.io/sitemap.xml
